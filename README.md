@@ -1,1 +1,2 @@
-# Astronomy
+## Astronomy
+Astronomy is the study of everything in the universe beyond Earth's atmosphere. It uses mathematics, physics, and chemistry in order to explain their origin and evolution. That includes objects we can see with our naked eyes, like the Sun , the Moon , the planets, and the stars . It also includes objects we can only see with telescopes or other instruments, like faraway galaxies and tiny particles. And it even includes questions about things we can't see at all, like dark matter and dark energy
